@@ -15,7 +15,7 @@ As well as implemented 2 metrics:
  * SSD (Sum of Squared Error)
  * MSE (Mean Squared Error)
  
-The code is split into two parts Part 1 which covers tasks 1-3 and Part 2 which covers tasks 4-5.
+The code is split into two parts Part 1 which covers tasks 1-3 and Part 2 which covers tasks 4-5. 
 
 A brief 4 page report for each task is included in report.pdf. 
 
